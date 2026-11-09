@@ -46,11 +46,10 @@
 
 ## `$ ls ~/proyectos`
 
-<pre>
-drwxr-xr-x  <a href="https://huggingface.co/spaces/jojimene/steamGamesRecomendator">recomendador-juegos-steam/</a>
-</pre>
-
 [Recomendador de juegos de Steam](https://huggingface.co/spaces/jojimene/steamGamesRecomendator) · desplegado en Hugging Face Spaces
+
+[Spoty Stats Data Science Proyect ](https://github.com/pagaliv/spotify-data-science)
+
 
 ---
 
