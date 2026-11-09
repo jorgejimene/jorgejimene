@@ -36,9 +36,11 @@ ciencia de datos · machine learning · ingeniería de software
 ---
 `$ ls ~/proyectos`
 ```text
-drwxr-xr-x  [Recomendador de juegos de Steam](https://huggingface.co/spaces/jojimene/steamGamesRecomendator)
-`$ ./modding --info`
+drwxr-xr-x  recomendador-juegos-steam/
 ```
+Recomendador de juegos de Steam: recomendador de videojuegos desplegado en Hugging Face Spaces.
+---
+`$ ./modding --info`
 ```text
 [info] Modding de videojuegos: assets gráficos y de audio,
        formatos binarios y pipelines de recursos.
