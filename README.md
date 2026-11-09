@@ -37,11 +37,8 @@ ciencia de datos · machine learning · ingeniería de software
 `$ ls ~/proyectos`
 ```text
 drwxr-xr-x  [Recomendador de juegos de Steam](https://huggingface.co/spaces/jojimene/steamGamesRecomendator)
-```
-nombre-proyecto-1: descripción breve. `Python` `Data Science`
-nombre-proyecto-2: descripción breve. `Java`
----
 `$ ./modding --info`
+```
 ```text
 [info] Modding de videojuegos: assets gráficos y de audio,
        formatos binarios y pipelines de recursos.
