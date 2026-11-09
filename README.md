@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
-    <img src="assets/terminal-light.v3.svg" width="800" alt="Jorge Jiménez · Computer Engineer. Education: Baccalaureate in Science and Technology, Bachelor's Degree in Computer Engineering and MSc in Data Science and Machine Learning (in progress). Focus: data science, machine learning and software engineering.">
+    <img src="assets/terminal-light.svg" width="800" alt="Jorge Jiménez · Computer Engineer. Education: Baccalaureate in Science and Technology, Bachelor's Degree in Computer Engineering and MSc in Data Science and Machine Learning (in progress). Focus: data science, machine learning and software engineering.">
   </picture>
 </div>
 
