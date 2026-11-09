@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="232" viewBox="0 0 900 232" role="img" aria-label="Jorge Jiménez, Ingeniero Informático, Máster en Ciencia de Datos y Aprendizaje Automático">
+<title>Jorge Jiménez · Ingeniero Informático</title>
+<style>
+.r1{animation:k1 12s infinite steps(8)}
+.r3{animation:k3 12s infinite steps(16)}
+.o2{animation:f2 12s infinite}
+.o4{animation:f4 12s infinite}
+.o5{animation:f5 12s infinite}
+.cur{animation:blink 1s infinite steps(1)}
+@keyframes k1{0%,2%{width:0}8%,96%{width:86.4px}96.01%,100%{width:0}}
+@keyframes k3{0%,18%{width:0}30%,96%{width:172.8px}96.01%,100%{width:0}}
+@keyframes f2{0%,10%{opacity:0}12%,96%{opacity:1}96.01%,100%{opacity:0}}
+@keyframes f4{0%,32%{opacity:0}34%,96%{opacity:1}96.01%,100%{opacity:0}}
+@keyframes f5{0%,38%{opacity:0}40%,96%{opacity:1}96.01%,100%{opacity:0}}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+</style>
+<rect x="0.5" y="0.5" width="899" height="231" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="32" y="28" width="40" height="4" rx="2" fill="#b45309"/>
+<defs>
+<clipPath id="c1"><rect class="r1" x="32" y="58" width="86.4" height="34"/></clipPath>
+<text x="32" y="82" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="18" textLength="86.4" lengthAdjust="spacing" clip-path="url(#c1)" xml:space="preserve"><tspan fill="#0f766e">$ </tspan><tspan fill="#1f2328">whoami</tspan></text>
+<clipPath id="c3"><rect class="r3" x="32" y="134" width="172.8" height="34"/></clipPath>
+<text x="32" y="158" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="18" textLength="172.8" lengthAdjust="spacing" clip-path="url(#c3)" xml:space="preserve"><tspan fill="#0f766e">$ </tspan><tspan fill="#1f2328">cat estado.txt</tspan></text>
+</defs>
+<text x="32" y="82" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="18" textLength="86.4" lengthAdjust="spacing" clip-path="url(#c1)" xml:space="preserve"><tspan fill="#0f766e">$ </tspan><tspan fill="#1f2328">whoami</tspan></text>
+<g class="o2"><text x="32" y="116" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="22" font-weight="700" xml:space="preserve"><tspan fill="#1f2328">Jorge Jiménez</tspan><tspan fill="#b45309" font-weight="400" font-size="18"> · Ingeniero Informático</tspan></text></g>
+<text x="32" y="158" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="18" textLength="172.8" lengthAdjust="spacing" clip-path="url(#c3)" xml:space="preserve"><tspan fill="#0f766e">$ </tspan><tspan fill="#1f2328">cat estado.txt</tspan></text>
+<g class="o4"><text x="32" y="192" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="18" xml:space="preserve"><tspan fill="#b45309">[wip] </tspan><tspan fill="#1f2328">Máster en Ciencia de Datos y Aprendizaje Automático</tspan></text></g>
+<g class="o5"><text x="32" y="222" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="18" fill="#0f766e" xml:space="preserve">$ </text><rect class="cur" x="55.6" y="206" width="10" height="20" fill="#0f766e"/></g>
+</svg>
