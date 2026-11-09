@@ -30,6 +30,13 @@ ciencia de datos · machine learning · ingeniería de software
 ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+`├─ datos_y_ml/`
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
 `├─ bases_de_datos/`
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -56,6 +63,9 @@ ciencia de datos · machine learning · ingeniería de software
 <pre>
 drwxr-xr-x  <a href="https://huggingface.co/spaces/jojimene/steamGamesRecomendator">recomendador-juegos-steam/</a>
 </pre>
+
+[Recomendador de juegos de Steam](https://huggingface.co/spaces/jojimene/steamGamesRecomendator) · desplegado en Hugging Face Spaces
+
 ---
 
 ## `$ ./modding --info`
@@ -63,7 +73,7 @@ drwxr-xr-x  <a href="https://huggingface.co/spaces/jojimene/steamGamesRecomendat
 ```text
 [info] Modding de videojuegos: assets gráficos y de audio,
        formatos binarios y pipelines de recursos.
-[tool] Blender · GIMP · Audacity · SARC-Tool
+[tool] Blender · GIMP · Audacity · Sm5shMusic · SARC-Tool
 ```
 
 ---
