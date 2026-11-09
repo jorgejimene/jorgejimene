@@ -47,6 +47,7 @@
 ## `$ ls ~/proyectos`
 
 [Steam games recommender](https://huggingface.co/spaces/jojimene/steamGamesRecomendator) · Video game recommender for Steam. Enter a Steam profile link or add games by hand, and get personalized recommendations. Deployed on Hugging Face Spaces.
+
 [Spotify Stats Data Science Project](https://github.com/pagaliv/spotify-data-science) · Comparative data science project analyzing Spotify streaming history between two users, featuring structured hypothesis testing, EDA, and reproducible CSV datasets.
 
 ---
