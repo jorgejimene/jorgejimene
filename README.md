@@ -7,7 +7,7 @@ jorge@github:~$ whoami
 Jorge Jiménez
 
 jorge@github:~$ cat formacion.txt
-[done]  Grado en Ingeniería Informática (TFG completado)
+[done]  Grado en Ingeniería Informática
 [wip]   Máster en Ciencia de Datos y Aprendizaje Automático
 
 jorge@github:~$ cat foco.txt
@@ -36,8 +36,7 @@ ciencia de datos · machine learning · ingeniería de software
 ---
 `$ ls ~/proyectos`
 ```text
-drwxr-xr-x  nombre-proyecto-1/   # qué hace, en una línea
-drwxr-xr-x  nombre-proyecto-2/   # qué hace, en una línea
+drwxr-xr-x  [Recomendador de juegos de Steam](https://huggingface.co/spaces/jojimene/steamGamesRecomendator)
 ```
 nombre-proyecto-1: descripción breve. `Python` `Data Science`
 nombre-proyecto-2: descripción breve. `Java`
