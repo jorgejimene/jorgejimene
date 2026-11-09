@@ -11,6 +11,7 @@ jorge@github:~$ whoami
 Jorge Jiménez
 
 jorge@github:~$ cat formacion.txt
+[done]  Bachillerato en Ciencias y Tecnología 
 [done]  Grado en Ingeniería Informática
 [wip]   Máster en Ciencia de Datos y Aprendizaje Automático
 
@@ -54,8 +55,6 @@ ciencia de datos · machine learning · ingeniería de software
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/Doxygen-2C4AA8?style=flat-square&logoColor=white)
 
-<!-- Añade aquí librerías de datos y ML: pandas, scikit-learn, PyTorch, Jupyter... -->
-
 ---
 
 ## `$ ls ~/proyectos`
@@ -71,9 +70,10 @@ drwxr-xr-x  <a href="https://huggingface.co/spaces/jojimene/steamGamesRecomendat
 ## `$ ./modding --info`
 
 ```text
-[info] Modding de videojuegos: assets gráficos y de audio,
-       formatos binarios y pipelines de recursos.
-[tool] Blender · GIMP · Audacity · Sm5shMusic · SARC-Tool
+[game] Super Smash Bros. Ultimate
+[info] Modding de audio: conversión al formato del juego
+       y búsqueda de puntos de loop (loop finders)
+[tool] Audacity · Sm5shMusic · SARC-Tool · Blender · GIMP
 ```
 
 ---
