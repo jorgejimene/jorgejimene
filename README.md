@@ -2,30 +2,9 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
-    <img src="assets/terminal-light.svg" width="720" alt="Jorge Jiménez, Ingeniero Informático, Máster en Ciencia de Datos y Aprendizaje Automático">
+    <img src="assets/terminal-light.svg" width="800" alt="Jorge Jiménez · Ingeniero Informático. Formación: Bachillerato en Ciencias y Tecnología, Grado en Ingeniería Informática y Máster en Ciencia de Datos y Aprendizaje Automático (en curso). Foco: ciencia de datos, machine learning e ingeniería de software.">
   </picture>
 </div>
-
-# Jorge Jiménez
-
-`Ingeniero Informático · Máster en Ciencia de Datos y Aprendizaje Automático`
-
----
-
-## `$ whoami`
-
-```text
-jorge@github:~$ whoami
-Jorge Jiménez
-
-jorge@github:~$ cat formacion.txt
-[done]  Bachillerato en Ciencias y Tecnología 
-[done]  Grado en Ingeniería Informática
-[wip]   Máster en Ciencia de Datos y Aprendizaje Automático
-
-jorge@github:~$ cat foco.txt
-ciencia de datos · machine learning · ingeniería de software
-```
 
 ---
 
