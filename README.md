@@ -56,9 +56,6 @@ ciencia de datos · machine learning · ingeniería de software
 <pre>
 drwxr-xr-x  <a href="https://huggingface.co/spaces/jojimene/steamGamesRecomendator">recomendador-juegos-steam/</a>
 </pre>
-
-[Recomendador de juegos de Steam](https://huggingface.co/spaces/jojimene/steamGamesRecomendator) · desplegado en Hugging Face Spaces
-
 ---
 
 ## `$ ./modding --info`
